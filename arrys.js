@@ -33,30 +33,18 @@
 // console.log(upArr);
 
 
-
-// ---
-
 // ## חלק ב' – reduce
 
-// ---
-
-// ### תרגיל 9
-
-// חשב סכום של:
-
-// </div>
-
-// ```javascript
-// [10, 20, 30]
-// ```
-
-// ---
-
-// <div dir="rtl">
 
 // ### תרגיל 10
 
 // חשב מכפלה של כל המספרים במערך.
+
+// const arr = [10, 10, 5]
+
+// const mult = arr.reduce((a, b) => {return a * b}) 
+// console.log(mult);
+
 
 // ---
 
