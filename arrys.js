@@ -20,7 +20,6 @@
 // const evens = arr.filter(num => num % 2 === 0)
 // console.log(evens);
 
-
 // ### תרגיל 8
 
 // שלב `filter` + `map`:
@@ -32,9 +31,7 @@
 // const upArr = arr.filter(num => num > 100).map(num => num + num / 10)
 // console.log(upArr);
 
-
 // ## חלק ב' – reduce
-
 
 // ### תרגיל 10
 
@@ -42,31 +39,20 @@
 
 // const arr = [10, 10, 5]
 
-// const mult = arr.reduce((a, b) => {return a * b}) 
+// const mult = arr.reduce((a, b) => {return a * b})
 // console.log(mult);
-
-
-// ---
-
-// ### תרגיל 11
-
-// יש מערך מילים:
-
-// </div>
-
-// ```javascript
-// ["a", "b", "c"]
-// ```
-
-// <div dir="rtl">
-
-// חבר אותן למחרוזת אחת.
-
-// ---
 
 // ### תרגיל 12
 
 // יש מערך משתמשים עם גילאים — חשב ממוצע גילאים.
+
+// const arr = { yair: 27, bob: 333, dad: 10 };
+
+// const values = Object.values(arr)
+
+// const evrage =
+//   values.reduce((a, b) => a + b, 0) / values.length;
+// console.log(evrage);
 
 // ---
 
