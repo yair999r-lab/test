@@ -3,54 +3,25 @@
 // ---
 
 // ## חלק א' – map / filter
-
-// ---
-
-// ### תרגיל 1
-
-// יש מערך מספרים:
-
-// </div>
-
-// ```javascript
-
-// ```
-
-// <div dir="rtl">
-
-// החזר מערך חדש שבו כל מספר מוכפל ב-2 באמצעות `map`.
-
-// ---
-
 // ### תרגיל 2
-
 // המר את כל המחרוזות לאותיות גדולות:
 
-const list = ["hello", "world"]
+// const list = ["hello", "world"]
 
-const upeer = list.map(word => word.toUpperCase())
-console.log(upeer);
-
-
-// ### תרגיל 3
-
-// יש מערך של מחירים. הוסף לכל מחיר מע"מ 17% באמצעות `map`.
-
-// ---
+// const upeer = list.map(word => word.toUpperCase())
+// console.log(upeer);
 
 // ### תרגיל 4
 
 // סנן רק מספרים זוגיים מתוך:
 
-// </div>
+// const arr = [1, 2, 3, 4, 5, 6]
 
-// ```javascript
-// [1, 2, 3, 4, 5, 6]
-// ```
+// const evens = arr.filter(num => num % 2 === 0)
+// console.log(evens);
 
-// ---
 
-// <div dir="rtl">
+
 
 // ### תרגיל 5
 
