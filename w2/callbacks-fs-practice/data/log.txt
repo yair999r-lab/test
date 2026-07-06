@@ -1,0 +1,3 @@
+log started
+first atcion completed 
+second atcion completed 
