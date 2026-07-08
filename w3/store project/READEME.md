@@ -13,14 +13,14 @@ The system manages the addition of a product to a customer's cart and the implem
  ├──  utils.js            # Utility functions
  │
  ├── router              # Route handlers
- │    ├── 📄 productRouter.js  # Product router
- │    ├── 📄 customerRouter.js # Customer router
- │    └── 📄 orderRouter.js    # Order router
+ │    ├── productRouter.js  # Product router
+ │    ├── customerRouter.js # Customer router
+ │    └── orderRouter.js    # Order router
  │
  └── service             # Business logic layer
-      ├── 📄 productService.js # Product logic
-      ├── 📄 customerService.js# Customer logic
-      └── 📄 orderService.js   # Order logic
+      ├── productService.js # Product logic
+      ├── customerService.js# Customer logic
+      └── orderService.js   # Order logic
 ```
 ### API Endpoints Reference
 
