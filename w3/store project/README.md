@@ -1,5 +1,3 @@
-
-```markdown
 # Online Store Server
 
 The server is designed to manage an online store backend. It handles a database of customers, products, and orders using JSON files. The system manages adding products to a customer's cart, checking balances, and processing checkouts.
@@ -7,8 +5,7 @@ The server is designed to manage an online store backend. It handles a database 
 ## File Structure
 
 project-root
- |-- main.js                # Entry point / Executes the server
- |-- server.js              # Creating and configuring the server
+ |-- server.js              # Entry point / Creates, configures, and runs the server
  |-- utils.js               # Utility functions
  |-- fileHandler.js         # File system operations (read/write JSON)
  |-- data/                  # JSON database files
@@ -56,5 +53,3 @@ project-root
 | `/account/balance` | `GET` | Retrieves the current account balance of the customer. |
 | `/orders/checkout` | `POST` | Processes the checkout and creates a new order. |
 | `/orders` | `GET` | Retrieves the order history for the customer. |
-
-```
