@@ -1,0 +1,68 @@
+[
+  {
+    "productId": 1,
+    "name": "Iron Broadsword",
+    "price": 150,
+    "stock": 10
+  },
+  {
+    "productId": 2,
+    "name": "Elven Stealth Cloak",
+    "price": 350,
+    "stock": 5
+  },
+  {
+    "productId": 3,
+    "name": "Minor Health Potion",
+    "price": 25,
+    "stock": 50
+  },
+  {
+    "productId": 4,
+    "name": "Dragon Scale Shield",
+    "price": 850,
+    "stock": 2
+  },
+  {
+    "productId": 5,
+    "name": "Throwing Daggers (Set of 3)",
+    "price": 60,
+    "stock": 15
+  },
+  {
+    "productId": 6,
+    "name": "Staff of Fireball",
+    "price": 1200,
+    "stock": 1
+  },
+  {
+    "productId": 7,
+    "name": "Steel Plate Armor",
+    "price": 600,
+    "stock": 4
+  },
+  {
+    "productId": 8,
+    "name": "Mana Potion",
+    "price": 30,
+    "stock": 40
+  },
+  {
+    "productId": 9,
+    "name": "Leather Boots of Swiftness",
+    "price": 120,
+    "stock": 8
+  },
+  {
+    "productId": 10,
+    "name": "Enchanted Bow",
+    "price": 450,
+    "stock": 0
+  },
+  {
+    "productId": 11,
+    "name": "Rusty Dagger",
+    "price": 5,
+    "stock": 0
+  }
+]

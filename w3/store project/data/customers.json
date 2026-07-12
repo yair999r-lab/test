@@ -1,0 +1,60 @@
+[
+  {
+    "customerId": 101,
+    "balance": 1200,
+    "cart": [
+      {
+        "productId": 3,
+        "name": "Minor Health Potion",
+        "quantity": 2
+      },
+      {
+        "productId": 5,
+        "name": "Throwing Daggers (Set of 3)",
+        "quantity": 1
+      },
+      {
+        "productId": 1,
+        "name": "Iron Broadsword",
+        "quantity": 2
+      }
+    ],
+    "createdAt": "2026-07-08T09:30:00Z"
+  },
+  {
+    "customerId": 102,
+    "balance": 45,
+    "cart": [
+      {
+        "productId": 4,
+        "name": "Dragon Scale Shield",
+        "quantity": 1
+      }
+    ],
+    "createdAt": "2026-07-09T14:15:00Z"
+  },
+  {
+    "customerId": 103,
+    "balance": 500,
+    "cart": [
+      {
+        "productId": 8,
+        "name": "Mana Potion",
+        "quantity": 5
+      }
+    ],
+    "createdAt": "2026-07-10T10:00:00Z"
+  },
+  {
+    "customerId": 104,
+    "balance": 5000,
+    "cart": [],
+    "createdAt": "2026-07-10T11:20:00Z"
+  },
+  {
+    "customerId": 105,
+    "balance": 0,
+    "cart": [],
+    "createdAt": "2026-07-10T16:00:00Z"
+  }
+]

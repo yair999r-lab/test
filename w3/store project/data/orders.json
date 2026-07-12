@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "customerId": 101,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "price": 150
+      },
+      {
+        "productId": 3,
+        "quantity": 4,
+        "price": 25
+      }
+    ],
+    "total": 250,
+    "createdAt": "2026-07-08T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "customerId": 104,
+    "items": [
+      {
+        "productId": 6,
+        "quantity": 1,
+        "price": 1200
+      },
+      {
+        "productId": 4,
+        "quantity": 1,
+        "price": 850
+      }
+    ],
+    "total": 2050,
+    "createdAt": "2026-07-10T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "customerId": 102,
+    "items": [
+      {
+        "productId": 3,
+        "quantity": 1,
+        "price": 25
+      }
+    ],
+    "total": 25,
+    "createdAt": "2026-07-09T15:00:00Z"
+  },
+  {
+    "id": 4,
+    "customerId": 101,
+    "items": [
+      {
+        "productId": 9,
+        "quantity": 1,
+        "price": 120
+      }
+    ],
+    "total": 120,
+    "createdAt": "2026-07-10T14:30:00Z"
+  }
+]
